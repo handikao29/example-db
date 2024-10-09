@@ -1,6 +1,7 @@
 {
   "items": [
     {
+      "id": 1,
       "item_name": "Item 1",
       "description": "Lorem Ipsum",
       "seller_name": "John Doe",
@@ -8,6 +9,16 @@
       "price": 50000,
       "rating": 2.5,
       "review_number": 20
+    },
+    {
+      "id": 2,
+      "item_name": "Item 2",
+      "description": "Dolor Sin Amet",
+      "seller_name": "Jane Doe",
+      "image_link": "https://cdn.quasar.dev/img/parallax2.jpg",
+      "price": 99900,
+      "rating": 4.3,
+      "review_number": 11
     }
   ],
   "profile": {
