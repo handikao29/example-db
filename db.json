@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "items": [
+    {
+      "item_name": "Item 1",
+      "description": "Lorem Ipsum",
+      "seller_name": "John Doe",
+      "image_link": "https://cdn.quasar.dev/img/parallax2.jpg",
+      "price": 50000,
+      "rating": 2.5,
+      "review_number": 20
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "handikao29"
   }
 }
