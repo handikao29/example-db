@@ -2,9 +2,10 @@
   "items": [
     {
       "id": "6707c28663454cd409fda701",
+      "item_name": "Perfume 100mL",
       "price": 773140,
       "description": "Minim ex cupidatat elit cupidatat ad deserunt eu culpa esse aute ut. Labore tempor laboris aliquip labore amet cupidatat cupidatat amet. Qui amet do duis culpa reprehenderit ullamco dolor proident. Labore minim duis et occaecat dolor esse ea tempor sunt labore ipsum ea excepteur dolor. Aliquip occaecat tempor voluptate eu quis nostrud magna labore laborum non proident labore reprehenderit velit. Culpa sit deserunt occaecat tempor ea nostrud est sunt aliquip sunt esse occaecat. Ea reprehenderit anim aliqua in elit.\r\n",
-      "name": "Finley William",
+      "seller_name": "Finley William",
       "image_link": "http://placehold.it/32x32",
       "index": 0,
       "rating": 4.3821,
@@ -13,9 +14,10 @@
     },
     {
       "id": "6707c286c30d1781fb725239",
+      "item_name": "Headphone",
       "price": 961915,
       "description": "Ad irure ex voluptate laborum aliquip non nostrud. Qui ea deserunt aute enim enim aute aliquip adipisicing. Sint cupidatat enim ipsum eu minim eu consequat. Velit cillum eiusmod velit aute enim pariatur officia mollit. Amet est labore voluptate tempor reprehenderit reprehenderit dolore aute cillum ex. Sunt laboris labore velit adipisicing. Ipsum nostrud do cupidatat excepteur fugiat ex dolor ad commodo duis.\r\n",
-      "name": "Head Mccarthy",
+      "seller_name": "Head Mccarthy",
       "image_link": "http://placehold.it/32x32",
       "index": 1,
       "rating": 4.3318,
@@ -24,9 +26,10 @@
     },
     {
       "id": "6707c286d20636aaecef1536",
+      "item_name": "Eucalyptus Oil 200mL",
       "price": 92729,
       "description": "Tempor ad id ullamco deserunt ullamco ex fugiat ullamco id amet veniam ex. Consequat exercitation anim dolore ullamco laboris occaecat ad nulla fugiat esse cupidatat excepteur pariatur aute. Est in Lorem eiusmod laborum deserunt aute aute elit. Lorem do occaecat eu minim eiusmod minim.\r\n",
-      "name": "Sonya Franks",
+      "seller_name": "Sonya Franks",
       "image_link": "http://placehold.it/32x32",
       "index": 2,
       "rating": 2.6953,
@@ -35,9 +38,10 @@
     },
     {
       "id": "6707c286ecf1b907228666d0",
+      "item_name": "Eucalyptus Oil 250mL",
       "price": 106320,
       "description": "Officia eiusmod proident ex excepteur nostrud consectetur do consectetur. Culpa culpa elit consequat nostrud fugiat do commodo pariatur consectetur ad. Excepteur nisi ut qui anim dolor culpa. Minim Lorem eu ipsum irure irure do cillum cillum dolore excepteur est tempor.\r\n",
-      "name": "Meredith Martin",
+      "seller_name": "Meredith Martin",
       "image_link": "http://placehold.it/32x32",
       "index": 3,
       "rating": 1.7478,
@@ -46,9 +50,10 @@
     },
     {
       "id": "6707c2863e43af4da032919d",
+      "item_name": "Mechanical Keyboard",
       "price": 543776,
       "description": "Est nostrud magna tempor velit ipsum minim quis in exercitation et aliqua duis minim. In enim eu qui reprehenderit enim pariatur aliqua laboris consectetur aliquip qui irure duis dolor. Lorem non occaecat ex Lorem. Sit aliquip do ex est elit.\r\n",
-      "name": "Whitaker Carroll",
+      "seller_name": "Whitaker Carroll",
       "image_link": "http://placehold.it/32x32",
       "index": 4,
       "rating": 4.8402,
@@ -57,9 +62,10 @@
     },
     {
       "id": "6707c286b50b5af27e247436",
+      "item_name": "Membrane Keyboard",
       "price": 214325,
       "description": "Magna excepteur commodo duis ut ut. Velit aliqua excepteur dolor laborum consequat veniam dolor. Pariatur est nisi incididunt dolor et. Aliquip esse eiusmod exercitation officia officia et ut sunt sunt nisi officia exercitation occaecat ad. Incididunt tempor Lorem ea culpa commodo consectetur irure dolor consectetur sit sunt ad deserunt aliquip. Do adipisicing veniam anim deserunt ut culpa irure occaecat duis esse ipsum nulla esse.\r\n",
-      "name": "Kerry Briggs",
+      "seller_name": "Kerry Briggs",
       "image_link": "http://placehold.it/32x32",
       "index": 5,
       "rating": 4.4484,
@@ -68,9 +74,10 @@
     },
     {
       "id": "6707c28697d731d5d3bc142b",
+      "item_name": "Earphone",
       "price": 59710,
       "description": "Exercitation proident proident labore culpa officia reprehenderit veniam esse aliqua eiusmod tempor. Velit excepteur deserunt consectetur amet. Nisi nulla exercitation eu nulla ea do ullamco ex laborum eu minim. Nostrud dolore non ex officia exercitation eiusmod dolor incididunt velit magna ad deserunt quis irure. Quis enim in esse dolor. Ea minim mollit ipsum amet culpa consectetur laboris sit ea proident id in. Adipisicing anim aliquip ea adipisicing do quis elit ullamco qui reprehenderit.\r\n",
-      "name": "Malinda Howe",
+      "seller_name": "Malinda Howe",
       "image_link": "http://placehold.it/32x32",
       "index": 6,
       "rating": 4.0893,
@@ -79,9 +86,10 @@
     },
     {
       "id": "6707c2864fd125273f5315b3",
+      "item_name": "Backpack",
       "price": 779197,
       "description": "Tempor consectetur id consectetur minim aute ut non quis ullamco consectetur aliqua officia. Amet sint amet in qui deserunt magna reprehenderit in id. Commodo ad aliquip cillum magna.\r\n",
-      "name": "Herrera Acevedo",
+      "seller_name": "Herrera Acevedo",
       "image_link": "http://placehold.it/32x32",
       "index": 7,
       "rating": 3.2884,
@@ -90,6 +98,6 @@
     }
   ],
   "profile": {
-    "name": "handikao29"
+    "seller_name": "handikao29"
   }
 }
